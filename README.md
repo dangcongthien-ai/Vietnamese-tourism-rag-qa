@@ -1,6 +1,6 @@
 # Vietnamese Tourism RAG QA
 
-Project hỏi đáp tiếng Việt về du lịch Việt Nam theo hướng RAG:
+Dự án hỏi đáp tiếng Việt về du lịch Việt Nam theo hướng RAG:
 
 - `SBERT/PhoBERT` để truy xuất context
 - `FAISS` để tìm top-k đoạn liên quan
@@ -56,11 +56,6 @@ Sau khi train:
 - `contexts.json`
 - `vit5_qa_model/`
 
-## File chính
-
-- [train_sbert.py](/d:/1_Documents/Nam_3_HK1/Natural_Language_Processing/Final_Project/train_sbert.py)
-- [train_vit5.py](/d:/1_Documents/Nam_3_HK1/Natural_Language_Processing/Final_Project/train_vit5.py)
-- [demo_gradio.py](/d:/1_Documents/Nam_3_HK1/Natural_Language_Processing/Final_Project/demo_gradio.py)
 
 ## Hạn chế
 
