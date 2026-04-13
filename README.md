@@ -59,7 +59,7 @@ Sau khi train:
 
 ## Hạn chế
 
-Project hiện tại chưa tốt do dataset còn thiếu, chưa đủ đa dạng và chưa đủ lớn.
+Dự án hiện tại chưa tốt do dữ liệu còn thiếu, chưa đủ đa dạng và chưa đủ lớn.
 
 - Chất lượng retrieval và generation chưa ổn định.
-- Kết quả hiện phù hợp mức demo/học thuật hơn là production.
+- Kết quả hiện phù hợp mức demo học thuật hơn là production.
